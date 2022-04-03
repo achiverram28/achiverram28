@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achiverram28
 - 👀 I’m interested in web dev  and firebase backend in android
-- 🌱 I’m currently learning react in js ,java for android
+- 🌱 I’m currently learning the greater part of frontend development,have a good experience in Javascript ,java for android
 - 💞️ I’m looking to collaborate on various web dev projects
 - 📫 How to reach me ...reach me through my github account
 
