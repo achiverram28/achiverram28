@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## GITHUB TROPHIES
-[![trophy](https://github-profile-trophy.vercel.app/achiverram28ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=achiverram28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
