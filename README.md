@@ -12,13 +12,15 @@ You can click the Preview link to take a look at your changes.
 
 ## GITHUB STATUS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achiverram28&show_icons=true&theme=radical)
+[![achiverram28's GitHub | Stats](https://stats.quine.sh/achiverram28/github?theme=light)](https://quine.sh)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achiverram28)](https://github.com/anuraghazra/github-readme-stats)
+## My Languages
 
-## GITHUB TROPHIES
+[![achiverram28's GitHub | Languages Over Time](https://stats.quine.sh/achiverram28/languages-over-time?theme=dark)](https://quine.sh)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=achiverram28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## My Topics Over Time
+
+[![achiverram28's GitHub | Topics Over Time](https://stats.quine.sh/achiverram28/topics-over-time?theme=dark)](https://quine.sh)
 
 ## HACKTOBERFEST
 
