@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @achiverram28
-- 👀 I’m interested in web dev  and currently working on Node and Express backend.
-- 🌱 I’m currently learning the greater part of Cloud and Devops 
-- 💞️ I’m looking to collaborate on various web dev , python and cloud projects involving Google Cloud and Kubernetes
-- 📫 How to reach me ...reach me through email achiverram28@gmail.com
+👋 Hello, I'm @achiverram28
+
+🔬 Research & Development Enthusiast diving into Federated Learning
+🚀 Recently began collaborating with a ICML and ICLR contributor
+🌱 Eager to broaden my horizons and engage in more collaborative ventures
+🧠 Deep Learning and Computer Vision Aficionado
+☁️ Cloud Native & DevOps Advocate
+
+🤝 I'm on the lookout for exciting opportunities to collaborate on cutting-edge Federated Learning projects. Let's explore new frontiers together!
+
+📧 Reach out to me via email: achiverram28@gmail.com
 
 <!---
 achiverram28/achiverram28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
