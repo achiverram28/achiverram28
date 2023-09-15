@@ -1,10 +1,10 @@
-👋 Hello, I'm @achiverram28
-
-🔬 Research & Development Enthusiast diving into Federated Learning
-🚀 Recently began collaborating with a ICML and ICLR contributor
-🌱 Eager to broaden my horizons and engage in more collaborative ventures
-🧠 Deep Learning and Computer Vision Aficionado
-☁️ Cloud Native & DevOps Advocate
+- 👋 Hello, I'm Ram Samarth B B
+- 📚 Computer Science Student pursuing B.Tech at the Indian Institute of Information Technology Kottayam
+- 🔬 Research & Development Enthusiast diving into Federated Learning
+- 🚀 Recently began collaborating with a ICML and ICLR contributor
+- 🌱 Eager to broaden my horizons and engage in more collaborative ventures
+- 🧠 Deep Learning and Computer Vision Aficionado
+- ☁️ Cloud Native & DevOps Enthusiast
 
 🤝 I'm on the lookout for exciting opportunities to collaborate on cutting-edge Federated Learning projects. Let's explore new frontiers together!
 
