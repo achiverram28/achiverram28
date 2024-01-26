@@ -1,12 +1,11 @@
 - 👋 Hello, I'm Ram Samarth B B
-- 📚 Computer Science Student pursuing B.Tech at the Indian Institute of Information Technology Kottayam
-- 🔬 Research & Development Enthusiast diving into Federated Learning
-- 🚀 Recently began collaborating with a ICML and ICLR contributor
+- 📚 Computer Science undergrad pursuing B.Tech at the Indian Institute of Information Technology Kottayam
+- 🔬 Enthusiastic about Research & Development, currently working on Federated Learning and Graph Neural Networks.
+- 🚀 Recently began my research internships.
 - 🌱 Eager to broaden my horizons and engage in more collaborative ventures
-- 🧠 Deep Learning and Computer Vision Aficionado
 - ☁️ Cloud Native & DevOps Enthusiast
 
-🤝 I'm on the lookout for exciting opportunities to collaborate on cutting-edge Federated Learning projects. Let's explore new frontiers together!
+🤝 I'm on the lookout for exciting opportunities to collaborate on cutting-edge Graph Representation Learning projects. Let's explore new frontiers together!
 
 📧 Reach out to me via email: achiverram28@gmail.com
 
