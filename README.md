@@ -1,1 +1,1 @@
-I am a PhD student at IISc Bangalore and was a visiting student researcher at Yale University under Professor Rex Ying. My primary area of research is graph representation learning. I also work on geometric deep learning.
+I work on graph representation learning, explore LLMs through geometric lens and Federated Learning
